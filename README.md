@@ -49,4 +49,4 @@ Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar este proy
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
+Este proyecto está bajo la licencia [MIT](https://github.com/icepath-rhel/currencyconverter/blob/main/LICENSE.txt).
