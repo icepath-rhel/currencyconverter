@@ -8,7 +8,7 @@ Este es un simple conversor de monedas desarrollado en Java que utiliza la API d
 - Interfaz de línea de comandos fácil de usar.
 - Actualización automática de las tasas de cambio desde la API.
 
-![image](https://github.com/icepath-rhel/currencyconverter/assets/171982184/41e4f841-2e10-42b5-a7db-dd50e5f5e36f)
+![image](https://github.com/icepath-rhel/currencyconverter/assets/171982184/2e2ab9ea-1326-4101-b95c-122a58ff0461)
 
 ## Requisitos del Sistema
 
