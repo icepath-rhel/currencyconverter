@@ -19,8 +19,8 @@ public class CurrencyMenu {
             4. JPY - Yen japonés -> USD - Dólar estadounidense
             5. USD - Dólar estadounidense -> BRL - Real brasilero
             6. BRL - Real brasilero -> USD - Dólar estadounidense
-            7. USD - Dólar estadounidense -> PEN - Sol peruano
-            8. PEN - Sol peruano -> USD - Dólar estadounidense
+            7. USD - Dólar estadounidense -> ARS - Peso argentino
+            8. ARS - Peso argentino -> USD - Dólar estadounidense
             9. Salir
           \s
             Nota: Elija una opción válida.
