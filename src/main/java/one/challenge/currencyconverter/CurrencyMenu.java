@@ -10,8 +10,9 @@ public class CurrencyMenu {
                      ===      CURRENCY CONVERTER      ===       \s
                 Bienvenido al Sistema de Intercambio de Moneda  \s
             ======================================================
-
-            Por favor, seleccione una opción:
+          
+            Por favor, elija una opción válida ingresando un
+            número del 1 al 9:
           \s
             1. USD - Dólar estadounidense -> EUR - Euro
             2. EUR - Euro  -> USD - Dólar estadounidense
@@ -22,9 +23,7 @@ public class CurrencyMenu {
             7. USD - Dólar estadounidense -> ARS - Peso argentino
             8. ARS - Peso argentino -> USD - Dólar estadounidense
             9. Salir
-          \s
-            Nota: Elija una opción válida.
-
+          
             ======================================================
           \s""";
     }
